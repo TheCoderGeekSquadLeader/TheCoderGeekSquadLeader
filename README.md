@@ -21,7 +21,7 @@
 
 ---
 
-## About Me
+### About Me
 
 ```text
 Identity    : The Coder Geek Squad Leader
@@ -38,7 +38,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-## Work Experience & Leadership
+### Work Experience & Leadership
 
 * **AI Data Annotator - CrowdGen (Appen)**
   Working remotely on AI training projects. Preparing, labeling, transcribing audio, and verifying datasets used to train and improve machine learning models following strict guidelines and quality metrics.
@@ -51,7 +51,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-## Tech Stack & Core Competencies
+### Tech Stack & Core Competencies
 
 ### Artificial Intelligence, Data & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -96,13 +96,32 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ---
 
 ### Commit Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoderGeekSquadLeader&theme=react-dark&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
+## GitHub Analytics
 
-<br/>
+<div align="center">
+
+### Commit Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheCoderGeekSquadLeader&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderGeekSquadLeader&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoderGeekSquadLeader&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
