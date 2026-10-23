@@ -4,7 +4,7 @@
 # The Coder Geek Squad Leader
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor**
 
-[LinkedIn](https://linkedin.com/in/soulemane-issifou) | [Email](mailto:votre.email@gmail.com)
+[LinkedIn](https://linkedin.com/in/soulemane-issifou) | [Email](mailto: lepluscultive@gmail.com)
 
 </div>
 
@@ -14,18 +14,15 @@
 
 ```text
 Identity    : The Coder Geek Squad Leader
-Education   : Bachelor's Degree in Artificial Intelligence & Software Engineering (ESCEN)
-Previous    : Ecole Superieure des Affaires (ESA) - Computer Software Engineering
-Current     : AI Data Annotator at CrowdGen (Appen) | Developer at ESCEN
-Initiative  : Founder and Initiator of Curiosity 9
+Education   : Bachelor's Degree in Artificial Intelligence & Software Engineering
 Interests   : 3D & Motion Enthusiast, Graphic Design Hobbyist, Trivia Buff
 Location    : Lome, Togo
 Status      : Available for collaborations, projects, and internship opportunities
 ```
 
-Student in Artificial Intelligence and Software Engineering at ESCEN (Ecole Superieure de Commerce et d'Economie Numerique). Developing practical skills in programming, data analysis, and the design of intelligent systems. Alongside studies, working as a freelance developer, contributing to open-source projects, and handling AI data annotation at CrowdGen (Appen).
+Student in Artificial Intelligence and Software Engineering. Developing practical skills in programming, data analysis, and the design of intelligent systems. Alongside studies, working as a freelance developer, contributing to open-source projects, and handling AI data annotation at CrowdGen (Appen).
 
-Focused on where technology meets real problems to provide useful solutions in areas such as agriculture, healthcare, education, and business transformation. Beyond core engineering, a background as a graphic design and 3D motion hobbyist allows blending technical logic with an eye for visual aesthetics. Founder and initiator of Curiosity 9.
+Focused on where technology meets real problems to provide useful solutions in areas such as agriculture, healthcare, education, and business transformation. Beyond core engineering, a background as a graphic design and 3D motion hobbyist allows blending technical logic with an eye for visual aesthetics. 
 
 ---
 
@@ -35,7 +32,7 @@ Focused on where technology meets real problems to provide useful solutions in a
   Working remotely on AI training projects. Preparing, labeling, transcribing audio, and verifying datasets used to train and improve machine learning models following strict guidelines and quality metrics.
 
 * **Developer - ESCEN**
-  Internal software development, user testing, data management, and web/mobile application building using modern development frameworks.
+  Internal software development, user testing, data management, and web application building using modern development frameworks.
 
 * **Founder & Initiator - Curiosity 9**
   Leading digital transformation projects, software architecture planning, and AI-driven initiatives.
@@ -76,8 +73,6 @@ Focused on where technology meets real problems to provide useful solutions in a
 ## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoderGeekSquadLeader&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 <br/>
 
