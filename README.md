@@ -1,4 +1,5 @@
-## Hello world !!!
+<img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/a7998b68-2a0f-439d-9ae1-bf826ad070e6" />
+
 
 <!--
 **TheCoderGeekSquadLeader/TheCoderGeekSquadLeader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
