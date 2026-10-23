@@ -40,7 +40,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ### Development Philosophy
 
-```text
 Core Principles :
 1. Code Quality   : Clean, maintainable, and self-documenting code over quick hacks.
 2. User Centric   : Bridging technical efficiency with high-end UX/UI standards.
