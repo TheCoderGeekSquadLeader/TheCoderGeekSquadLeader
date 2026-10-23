@@ -20,9 +20,10 @@ Location    : Lome, Togo
 Status      : Available for collaborations, projects, and internship opportunities
 ```
 
-Student in Artificial Intelligence and Software Engineering. Developing practical skills in programming, data analysis, and the design of intelligent systems. Alongside studies, working as a freelance developer, contributing to open-source projects, and handling AI data annotation at CrowdGen (Appen).
-
-Focused on where technology meets real problems to provide useful solutions in areas such as agriculture, healthcare, education, and business transformation. Beyond core engineering, a background as a graphic design and 3D motion hobbyist allows blending technical logic with an eye for visual aesthetics. 
+Student in Artificial Intelligence and Software Engineering. I am developing practical skills in programming, data analysis, and the design of intelligent systems. Alongside my studies, I work as a freelance developer, contribute to open-source projects, and handle AI data annotation.
+What interests me is where technology meets a real problem and provides a useful solution. Naturally curious and a trivia enthusiast, I am focused on the impact of digital technology on businesses, industry, agriculture, healthcare, and education.
+Beyond core engineering, my background as a graphic design and 3D motion hobbyist allows me to blend technical logic with an eye for visual aesthetics.
+Not merely as an observer, but as someone who wants to actively contribute to these transformations. Available for collaborations, projects, and internship opportunities.
 
 ---
 
