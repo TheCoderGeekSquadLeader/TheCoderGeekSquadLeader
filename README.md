@@ -36,6 +36,16 @@ What interests me is where technology meets a real problem and provides a useful
 Beyond core engineering, my background as a graphic design and 3D motion hobbyist allows me to blend technical logic with an eye for visual aesthetics.
 Not merely as an observer, but as someone who wants to actively contribute to these transformations. Available for collaborations, projects, and internship opportunities.
 
+[sysadmin@curiosity9 ~]$ neofetch --profile
+-------------------------------------------
+OS         : Linux / Windows WSL2
+Host       : AI & Software Engineering Workstation
+Kernel     : Next.js + Flutter + PyTorch
+Uptime     : 24/7 Innovation & Continuous Learning
+Shell      : zsh / bash
+Editor     : VS Code / Android Studio
+Aesthetic  : Glassmorphism Dark Mode
+
 ---
 
 ### Development Philosophy
