@@ -140,7 +140,6 @@ Core Principles :
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheCoderGeekSquadLeader&color=blueviolet&style=flat-square&label=Profile+Views)
-![Public Repos](https://img.shields.io/github/repos/user/TheCoderGeekSquadLeader?style=flat-square&label=Public%20Repos&color=2bbc8a&logo=github)
 ![Followers](https://img.shields.io/github/followers/TheCoderGeekSquadLeader?style=flat-square&logo=github&color=007acc)
 ![Total Stars](https://img.shields.io/github/stars/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Stars&color=yellow&logo=github)
 ![Pull Requests](https://img.shields.io/github/issues-pr-closed/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=PRs%20Merged&color=purple&logo=github)
@@ -149,9 +148,16 @@ Core Principles :
 ![Total Commits](https://img.shields.io/github/commit-activity/m/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Commits&color=4169E1&logo=github)
 ![Issues Closed](https://img.shields.io/github/issues-closed/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Issues%20Resolved&color=28a745&logo=github)
 ![Fork Count](https://img.shields.io/github/forks/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Forks&color=orange&logo=github)
-![License](https://img.shields.io/github/license/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&color=lightgrey)
 
 
+</div>
+
+---
+
+### GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheCoderGeekSquadLeader&theme=darkhub&no-frame=true&no-background=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
