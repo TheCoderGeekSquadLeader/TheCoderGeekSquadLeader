@@ -4,7 +4,7 @@
 # The Coder Geek Squad Leader
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor**
 
-[LinkedIn](https://linkedin.com/in/soulemane-issifou) | [Email](mailto: lepluscultive@gmail.com)
+[LinkedIn](https://linkedin.com/in/soulemane-issifou) | [Email](mailto:lepluscultive@gmail.com)
 
 </div>
 
