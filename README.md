@@ -10,10 +10,10 @@
 <a href="mailto:lepluscultive@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://x.com/">
+<a href="https://x.com/TheCoderGeek31">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/the.coder.geek.squad.leader?exln=YnhxdjJ0aHQ2dWJv">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
