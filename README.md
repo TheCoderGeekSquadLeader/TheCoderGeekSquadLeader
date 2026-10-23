@@ -5,10 +5,10 @@
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor**
 
 <a href="https://linkedin.com/in/soulemane-issifou">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:lepluscultive@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=social&logo=gmail" alt="Email" />
 </a>
 
 ---
