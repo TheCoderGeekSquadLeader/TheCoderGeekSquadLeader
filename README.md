@@ -4,12 +4,15 @@
 # The Coder Geek Squad Leader
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor**
 
-<a href="https://linkedin.com/in/soulemane-issifou">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn" />
-</a>
-<a href="mailto:lepluscultive@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=" alt="Email" />
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/soulemane-issifou">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lepluscultive@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 ---
 
