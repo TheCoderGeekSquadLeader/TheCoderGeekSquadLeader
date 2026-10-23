@@ -87,21 +87,13 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=flat-square&logo=powerbi&logoColor=black)
-![Data Annotation](https://img.shields.io/badge/Data_Annotation-181717?style=flat-square)
-![Data Labeling](https://img.shields.io/badge/Data_Labeling-181717?style=flat-square)
-![Audio Transcription](https://img.shields.io/badge/Audio_Transcription-181717?style=flat-square)
 
-### Backend & Databases
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black)
 ![MongoDB / NoSQL](https://img.shields.io/badge/MongoDB_%2F_NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Architecture & Modeling
-![UML](https://img.shields.io/badge/UML-181717?style=flat-square)
-![Merise](https://img.shields.io/badge/Merise-181717?style=flat-square)
 
 ### Tools, IDEs & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -112,13 +104,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Astah Community](https://img.shields.io/badge/Astah_Community-181717?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-### Design & Visual Engineering
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![UI / UX Design](https://img.shields.io/badge/UI_%2F_UX_Design-000000?style=flat-square)
 
 ---
 
