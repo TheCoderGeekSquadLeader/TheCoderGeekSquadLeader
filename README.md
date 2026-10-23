@@ -95,6 +95,13 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
+### Commit Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoderGeekSquadLeader&theme=react-dark&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
+
+<br/>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
