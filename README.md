@@ -124,6 +124,14 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 </div>
 
+
+### GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheCoderGeekSquadLeader&theme=darkhub&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+
 ---
 
 <div align="center">
