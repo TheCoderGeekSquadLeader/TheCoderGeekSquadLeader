@@ -47,16 +47,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-### Development Philosophy
-
-Core Principles :
-1. Code Quality   : Clean, maintainable, and self-documenting code over quick hacks.
-2. User Centric   : Bridging technical efficiency with high-end UX/UI standards.
-3. System Scalability : Architecting modular systems ready for growth and production.
-
----
-
-### Work Experience & Leadership
+### Work Experience
 
 * **AI Data Annotator - CrowdGen (Appen)**
   Working remotely on AI training projects. Preparing, labeling, transcribing audio, and verifying datasets used to train and improve machine learning models following strict guidelines and quality metrics.
@@ -76,9 +67,7 @@ Core Principles :
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black)
-![MongoDB / NoSQL](https://img.shields.io/badge/MongoDB_%2F_NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) NoSQL](https://img.shields.io/badge/MongoDB_%2F_NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=flat-square&logo=powerbi&logoColor=black)
 ![Data Annotation](https://img.shields.io/badge/Data_Annotation-181717?style=flat-square)
 ![Data Labeling](https://img.shields.io/badge/Data_Labeling-181717?style=flat-square)
