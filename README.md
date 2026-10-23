@@ -93,7 +93,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB / NoSQL](https://img.shields.io/badge/MongoDB_%2F_NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_%2F_NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tools, IDEs & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
