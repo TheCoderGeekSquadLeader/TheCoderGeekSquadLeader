@@ -27,7 +27,6 @@
 Identity    : The Coder Geek Squad Leader
 Education   : Bachelor's Degree in Artificial Intelligence & Software Engineering
 Interests   : 3D & Motion Enthusiast, Graphic Design Hobbyist, Trivia Buff
-Location    : Lome, Togo
 Status      : Available for collaborations, projects, and internship opportunities
 ```
 
