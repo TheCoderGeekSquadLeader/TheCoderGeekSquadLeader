@@ -147,7 +147,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheCoderGeekSquadLeader&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/TheCoderGeekSquadLeader?style=flat-square&logo=github&color=007acc)
 ![Total Stars](https://img.shields.io/github/stars/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Stars&color=yellow&logo=github)
 ![Pull Requests](https://img.shields.io/github/issues-pr-closed/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=PRs%20Merged&color=purple&logo=github)
