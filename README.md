@@ -140,8 +140,7 @@ Core Principles :
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheCoderGeekSquadLeader&color=blueviolet&style=flat-square&label=Profile+Views)
-![Public Repos](https://img.shields.io/badge/Public_Repos-Auto--Detect-2bbc8a?style=flat-square&logo=github)
-![GitHub Followers](https://img.shields.io/github/followers/TheCoderGeekSquadLeader?style=flat-square&logo=github&color=007acc)
+![Public Repos](https://img.shields.io/github/repos/type/TheCoderGeekSquadLeader/public?style=flat-square&label=Public%20Repos&color=2bbc8a&logo=github) Followers](https://img.shields.io/github/followers/TheCoderGeekSquadLeader?style=flat-square&logo=github&color=007acc)
 ![Last Activity](https://img.shields.io/github/last-commit/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&color=blue&logo=github)
 
 </div>
