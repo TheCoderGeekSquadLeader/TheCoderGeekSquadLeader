@@ -105,6 +105,11 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ![Astah Community](https://img.shields.io/badge/Astah_Community-181717?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+### Design & Visual Engineering
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
 ---
 
 ### Commit Activity
