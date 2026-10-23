@@ -135,6 +135,18 @@ Core Principles :
 
 ---
 
+### Profile Overview
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheCoderGeekSquadLeader&color=blueviolet&style=flat-square&label=Profile+Views)
+![Repo Count](https://img.shields.io/github/repos/count/TheCoderGeekSquadLeader?style=flat-square&color=2bbc8a)
+![Last Commit](https://img.shields.io/github/last-commit/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&color=blue)
+
+</div>
+
+---
+
 <div align="center">
   <sub>By Curiosity 9</sub>
 </div>
