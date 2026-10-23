@@ -1,8 +1,6 @@
 <img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/a7998b68-2a0f-439d-9ae1-bf826ad070e6" />
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=The%20Coder%20Geek%20Squad%20Leader&fontSize=38&fontAlignY=38&desc=AI%20%26%20Software%20Engineering%20Student%20%7C%20Tech%20Builder&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-
 # The Coder Geek Squad Leader
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor**
 
