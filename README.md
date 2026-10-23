@@ -95,10 +95,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
 ### Commit Activity
 
 <picture>
