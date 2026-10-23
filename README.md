@@ -48,6 +48,16 @@ Aesthetic  : Glassmorphism Dark Mode
 
 ---
 
+### Tech Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
+</div>
+
+---
+
 ### Development Philosophy
 
 Core Principles :
