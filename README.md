@@ -49,14 +49,14 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ### Work Experience
 
+* **Founder - Curiosity 9**
+  Leading digital transformation projects, software architecture planning, and AI-driven initiatives.
+
 * **AI Data Annotator - CrowdGen (Appen)**
   Working remotely on AI training projects. Preparing, labeling, transcribing audio, and verifying datasets used to train and improve machine learning models following strict guidelines and quality metrics.
 
 * **Developer - ESCEN**
   Internal software development, user testing, data management, and web application building using modern development frameworks.
-
-* **Founder & Initiator - Curiosity 9**
-  Leading digital transformation projects, software architecture planning, and AI-driven initiatives.
 
 ---
 
