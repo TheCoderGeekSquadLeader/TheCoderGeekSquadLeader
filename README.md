@@ -2,7 +2,7 @@
 <div align="center">
 
 # The Coder Geek Squad Leader
-**AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor | Graphic Design Hobbyist | 3D & Motion Enthusiast | Trivia Buff**
+**AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor | Graphic Design Hobbyist | 3D & Motion Enthusiast | Trivia Buff** 
 
 <a href="https://linkedin.com/in/soulemane-issifou">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
