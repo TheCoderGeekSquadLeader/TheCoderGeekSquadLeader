@@ -43,14 +43,17 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 <h3 align="center">Work Experience</h3>
 
-* **Founder - Curiosity 9**
+- **Founder - Curiosity 9**
   Leading digital transformation projects, software architecture planning, and AI-driven initiatives.
 
-* **AI Data Annotator - CrowdGen (Appen)**
+- **AI Data Annotator - CrowdGen (Appen)**
   Working remotely on AI training projects. Preparing, labeling, transcribing audio, and verifying datasets used to train and improve machine learning models following strict guidelines and quality metrics.
 
-* **Developer - ESCEN**
+- **Developer - ESCEN**
   Internal software development, user testing, data management, and web application building using modern development frameworks.
+
+- **Open Source Contributor - GitHub**
+  Collaborating on open-source projects alongside other developers: contributing code, fixing issues, submitting pull requests, and taking part in code reviews.
 
 ---
 
