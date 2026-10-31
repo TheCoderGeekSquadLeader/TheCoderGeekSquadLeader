@@ -67,8 +67,16 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,flutter,dart,java,c&perline=12" alt="Web & Mobile stack" />
 
 #### Artificial Intelligence & Data Science
-<img src="https://skillicons.dev/icons?i=py,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,opencv,powerbi&perline=12" alt="AI & Data stack" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/power-bi.png" width="48" height="48" alt="Power BI" />
 
 #### Databases & Backend
 <img src="https://skillicons.dev/icons?i=mysql,postgres,php,supabase,mongodb&perline=12" alt="Databases & Backend" />
@@ -76,10 +84,9 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 #### Tools, IDEs & Infrastructure
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,androidstudio,vercel&perline=12" alt="Tools & Infrastructure" />
 
-Also: Astah Community
-
 #### Design & Visual Engineering
-<img src="https://skillicons.dev/icons?i=figma,ai&perline=12" alt="Design tools" />
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 
 ---
