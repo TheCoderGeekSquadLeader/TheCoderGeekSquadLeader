@@ -138,5 +138,5 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ---
 
 <div align="center">
-  <sub>By Curiosity 9</sub>
+  <sub>Curiosity 9</sub>
 </div>
