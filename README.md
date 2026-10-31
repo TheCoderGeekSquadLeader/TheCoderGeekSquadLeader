@@ -5,18 +5,10 @@
 # The Coder Geek Squad Leader
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor | Graphic Design Hobbyist | 3D & Motion Enthusiast | Trivia Buff** 
 
-<a href="https://linkedin.com/in/soulemane-issifou">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:lepluscultive@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://x.com/TheCoderGeek31">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://www.instagram.com/the.coder.geek.squad.leader?exln=YnhxdjJ0aHQ2dWJv">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<a href="https://linkedin.com/in/soulemane-issifou"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:lepluscultive@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://x.com/TheCoderGeek31"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img src="https://cdn.simpleicons.org/x/000000" width="44" height="44" alt="X" /></picture></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/the.coder.geek.squad.leader?exln=YnhxdjJ0aHQ2dWJv"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>
 
 </div>
 
