@@ -15,7 +15,7 @@
 
 ---
 
-### About Me
+<h3 align="center">About Me</h3>
 
 ```text
 Identity    : The Coder Geek Squad Leader
@@ -31,7 +31,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-### Tech Quote of the Day
+<h3 align="center">Tech Quote of the Day</h3>
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-### Work Experience
+<h3 align="center">Work Experience</h3>
 
 * **Founder - Curiosity 9**
   Leading digital transformation projects, software architecture planning, and AI-driven initiatives.
@@ -88,7 +88,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-### Commit Activity
+<h3 align="center">Commit Activity</h3>
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-### GitHub Analytics
+<h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-### Profile Overview
+<h3 align="center">Profile Overview</h3>
 
 <div align="center">
 
