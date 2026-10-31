@@ -109,8 +109,8 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 <br/>
 
 <p align="center">
-  <img src="https://TON-PROJET.vercel.app/api?username=TheCoderGeekSquadLeader&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://TON-PROJET.vercel.app/api/top-langs/?username=TheCoderGeekSquadLeader&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-psi-seven-76.vercel.app/api?username=TheCoderGeekSquadLeader&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-psi-seven-76.vercel.app/api/top-langs/?username=TheCoderGeekSquadLeader&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=TheCoderGeekSquadLeader&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
@@ -137,5 +137,5 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ---
 
 <div align="center">
-  <sub>Curiosity 9</sub>
+  <sub>By Curiosity 9</sub>
 </div>
