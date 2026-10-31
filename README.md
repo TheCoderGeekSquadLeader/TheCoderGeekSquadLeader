@@ -11,8 +11,6 @@
 <a href="https://www.instagram.com/the.coder.geek.squad.leader?exln=YnhxdjJ0aHQ2dWJv"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;
 <a href="https://discord.com/users/1419013771757617203"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=AI+%26+Software+Engineering+Student;Freelance+Dev+%26+Tech+Builder;AI+Data+Annotator;Open+Source+Contributor;3D+%26+Motion+Enthusiast" alt="Typing animation" />
-
 </div>
 
 ---
@@ -100,10 +98,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoderGeekSquadLeader&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="97%" alt="Contribution Activity Graph" />
-
 </div>
 
 ---
@@ -125,16 +119,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
-<h3 align="center">GitHub Trophies</h3>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheCoderGeekSquadLeader&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12" alt="GitHub Trophies" />
-
-</div>
-
----
-
 <h3 align="center">Profile Overview</h3>
 
 <div align="center">
@@ -148,16 +132,10 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ![Issues Closed](https://img.shields.io/github/issues-closed/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Issues%20Resolved&color=28a745&logo=github)
 ![Fork Count](https://img.shields.io/github/forks/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Forks&color=orange&logo=github)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=TheCoderGeekSquadLeader&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
 </div>
 
 ---
 
 <div align="center">
-  <sub>By Curiosity 9</sub>
+  <sub>Curiosity 9</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" width="100%" alt="Footer wave" />
