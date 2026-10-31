@@ -54,6 +54,8 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ---
 
+<div align="center">
+
 ### Tech Stack & Core Competencies
 
 #### Software, Web & Mobile Engineering
@@ -81,6 +83,8 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+
+</div>
 
 ---
 
