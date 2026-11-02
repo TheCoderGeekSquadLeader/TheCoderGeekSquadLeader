@@ -82,7 +82,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 <img src="https://skillicons.dev/icons?i=mysql,postgres,php,supabase,mongodb&perline=12" alt="Databases & Backend" />
 
 #### Tools, IDEs & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,androidstudio,vercel&perline=12" alt="Tools & Infrastructure" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,idea,androidstudio,vercel&perline=12" alt="Tools & Infrastructure" />
 
 #### Design & Visual Engineering
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />&nbsp;&nbsp;
