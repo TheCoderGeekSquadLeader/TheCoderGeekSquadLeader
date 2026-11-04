@@ -1,3 +1,17 @@
+```mermaid
+mindmap
+  root((Skills))
+    Web & Mobile
+      React / Next.js
+      Flutter
+    AI & Data
+      Python
+      PyTorch
+    Backend
+      PostgreSQL
+      Supabase
+```
+
 <img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/b429ab1e-005a-4ad0-a2ca-bd04b5c513d9" />
 
 <div align="center">
