@@ -140,6 +140,17 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 </div>
 
+<h3 align="center">Profile Overview</h3>
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/TheCoderGeekSquadLeader?style=flat-square&logo=github&color=007acc)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTheCoderGeekSquadLeader&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&color=28a745)
+![OSS PRs Merged](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3ATheCoderGeekSquadLeader%2Btype%3Apr%2Bis%3Amerged%2B-user%3ATheCoderGeekSquadLeader&query=%24.total_count&label=OSS%20PRs%20Merged&style=flat-square&logo=github&color=purple)
+![GitHub Member](https://img.shields.io/badge/GitHub_Member-Since_2025-181717?style=flat-square&logo=github)
+
+</div>
+
 ---
 
 <div align="center">
