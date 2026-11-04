@@ -136,7 +136,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ![Account Created](https://img.shields.io/badge/GitHub_Member-Since_2025-181717?style=flat-square&logo=github)
 ![Total Commits](https://img.shields.io/github/commit-activity/m/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Commits&color=4169E1&logo=github)
 ![Issues Closed](https://img.shields.io/github/issues-closed/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Issues%20Resolved&color=28a745&logo=github)
-![Fork Count](https://img.shields.io/github/forks/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Forks&color=orange&logo=github)
 
 </div>
 
