@@ -131,7 +131,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 ![Followers](https://img.shields.io/github/followers/TheCoderGeekSquadLeader?style=flat-square&logo=github&color=007acc)
 ![Total Stars](https://img.shields.io/github/stars/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Stars&color=yellow&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr-closed/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=PRs%20Merged&color=purple&logo=github)
 ![Last Activity](https://img.shields.io/github/last-commit/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&color=blue&logo=github)
 ![Account Created](https://img.shields.io/badge/GitHub_Member-Since_2025-181717?style=flat-square&logo=github)
 ![Total Commits](https://img.shields.io/github/commit-activity/m/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Commits&color=4169E1&logo=github)
