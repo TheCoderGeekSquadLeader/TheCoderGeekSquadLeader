@@ -45,7 +45,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 <h3 align="center">Work Experience</h3>
 
-- **Open Source Contributor - GitHub**
+- **Open Source Contributor - Independent**
   Collaborating on open-source projects alongside other developers : contributing code, fixing issues, submitting pull requests, and taking part in code reviews.
 
 - **Founder - Curiosity 9**
