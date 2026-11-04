@@ -19,7 +19,7 @@
 
 ```text
 Identity    : The Coder Geek Squad Leader
-Education   : Bachelor's Degree in Artificial Intelligence & Software Engineering
+Education   : Bachelor's in AI & Software Engineering (in progress, 2027)
 Interests   : 3D & Motion Enthusiast, Graphic Design Hobbyist, Trivia Buff
 Status      : Available for collaborations, projects, and internship opportunities
 ```
