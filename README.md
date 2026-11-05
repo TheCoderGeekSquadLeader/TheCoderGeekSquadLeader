@@ -121,13 +121,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 <img src="https://streak-stats.demolab.com/?user=TheCoderGeekSquadLeader&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheCoderGeekSquadLeader&bg_color=0d1117&color=58a6ff&line=58a6ff&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCoderGeekSquadLeader&bg_color=ffffff&color=24292f&line=0969da&area=true&hide_border=true" width="97%" alt="Contribution Activity Graph" />
-</picture>
-
 </div>
 
 ---
