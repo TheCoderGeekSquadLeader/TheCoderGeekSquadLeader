@@ -64,25 +64,14 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 ### Tech Stack & Core Competencies
 
 #### Software, Web & Mobile Engineering
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br/>
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,flutter,dart,java,c&perline=12" alt="Web & Mobile stack" />
 
 #### Artificial Intelligence & Data Science
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />&nbsp;&nbsp;
@@ -90,21 +79,10 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 <img src="https://img.icons8.com/color/96/power-bi.png" width="48" height="48" alt="Power BI" />
 
 #### Databases & Backend
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,php,supabase,mongodb&perline=12" alt="Databases & Backend" />
 
 #### Tools, IDEs & Infrastructure
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" /><br/>
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,idea,androidstudio,vercel&perline=12" alt="Tools & Infrastructure" />
 
 #### Design & Visual Engineering
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />&nbsp;&nbsp;
@@ -151,41 +129,13 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 <div align="center">
 
-
-
 ![Followers](https://img.shields.io/github/followers/TheCoderGeekSquadLeader?style=flat-square&logo=github&color=007acc)
-
-
-
-
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTheCoderGeekSquadLeader&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&color=28a745)
-
-
-
-
 ![Total Stars](https://img.shields.io/github/stars/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Stars&color=yellow&logo=github)
-
-
-
-
 ![OSS PRs Merged](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3ATheCoderGeekSquadLeader%2Btype%3Apr%2Bis%3Amerged%2B-user%3ATheCoderGeekSquadLeader&query=%24.total_count&label=OSS%20PRs%20Merged&style=flat-square&logo=github&color=purple)
-
-
-
-
 ![Last Activity](https://img.shields.io/github/last-commit/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&color=blue&logo=github)
-
-
-
-
 ![Account Created](https://img.shields.io/badge/GitHub_Member-Since_2025-181717?style=flat-square&logo=github)
-
-
-
-
 ![Total Commits](https://img.shields.io/github/commit-activity/m/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader?style=flat-square&label=Total%20Commits&color=4169E1&logo=github)
-
-
 
 </div>
 
