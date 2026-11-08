@@ -1,8 +1,11 @@
-<div>
+<img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/b429ab1e-005a-4ad0-a2ca-bd04b5c513d9" />
+
+<div align="center">
 
 # The Coder Geek Squad Leader
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor | Graphic Design Hobbyist | 3D & Motion Enthusiast | Trivia Buff** 
 
+<a href="https://linkedin.com/in/soulemane-issifou"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:lepluscultive@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /></a>&nbsp;&nbsp;
 <a href="https://x.com/TheCoderGeek31"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img src="https://cdn.simpleicons.org/x/000000" width="44" height="44" alt="X" /></picture></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/the.coder.geek.squad.leader?exln=YnhxdjJ0aHQ2dWJv"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;
@@ -21,7 +24,7 @@ Interests   : 3D & Motion Enthusiast, Graphic Design Hobbyist, Trivia Buff
 Status      : Available for collaborations, projects, and internship opportunities
 ```
 
-<p>
+<p align="justify">
 Student in Artificial Intelligence and Software Engineering. I am developing practical skills in programming, data analysis, and the design of intelligent systems. Alongside my studies, I work as a freelance developer, contribute to open-source projects, and handle AI data annotation.
 What interests me is where technology meets a real problem and provides a useful solution. Naturally curious and a trivia enthusiast, I am focused on the impact of digital technology on businesses, industry, agriculture, healthcare, and education.
 Beyond core engineering, my background as a graphic design and 3D motion hobbyist allows me to blend technical logic with an eye for visual aesthetics.
@@ -136,4 +139,8 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 </div>
 
+---
 
+<div align="center">
+  <sub>Curiosity 9</sub>
+</div>
