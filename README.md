@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # The Coder Geek Squad Leader
 **AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor | Graphic Design Hobbyist | 3D & Motion Enthusiast | Trivia Buff** 
