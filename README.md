@@ -48,9 +48,6 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 - **Open Source Contributor - Independent**
   Collaborating on open-source projects alongside other developers : contributing code, fixing issues, submitting pull requests, and taking part in code reviews.
 
-- **Founder - Curiosity 9**
-  Leading digital transformation projects, software architecture planning, and AI-driven initiatives.
-
 - **AI Data Annotator - CrowdGen (Appen)**
   Working remotely on AI training projects. Preparing, labeling, transcribing audio, and verifying datasets used to train and improve machine learning models following strict guidelines and quality metrics.
 
