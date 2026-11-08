@@ -137,9 +137,4 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 </div>
 
----
-
-<div align="center">
-  <sub>Curiosity 9</sub>
-</div>
 
