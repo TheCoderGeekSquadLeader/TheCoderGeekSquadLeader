@@ -45,6 +45,9 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 <h3 align="center">Work Experience</h3>
 
+- **AI Data Annotator - Jwuma by Corpshore AI**
+  AI Data Contributor and Evaluator working remotely on large language model fine-tuning and data quality projects hosted on the Jwuma (Corpshore AI) platform. Key responsibilities include evaluating AI outputs, performing RLHF (Reinforcement Learning from Human Feedback), and annotating datasets against precise accuracy and safety criteria.
+
 - **Open Source Contributor - Independent**
   Collaborating on open-source projects alongside other developers : contributing code, fixing issues, submitting pull requests, and taking part in code reviews.
 
