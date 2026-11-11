@@ -45,6 +45,9 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 
 <h3 align="center">Work Experience</h3>
 
+- **Freelance AI Trainer (French Alignment) - Perit AI (YC F26)**
+  AI Data Contributor and French Language Specialist working remotely on the French Alignment project for Perit AI via the Zyka Foundry platform. Tasked with reviewing and aligning audio data to train and refine AI models. My work involves applying strict guidelines to maintain data integrity and consistency, contributing directly to the improvement of Natural Language Processing (NLP) systems.
+
 - **AI Data Annotator - Jwuma by Corpshore AI**
   AI Data Contributor and Evaluator working remotely on large language model fine-tuning and data quality projects hosted on the Jwuma (Corpshore AI) platform. Key responsibilities include evaluating AI outputs, performing RLHF (Reinforcement Learning from Human Feedback), and annotating datasets against precise accuracy and safety criteria.
 
