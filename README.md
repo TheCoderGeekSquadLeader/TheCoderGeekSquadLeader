@@ -46,7 +46,7 @@ Not merely as an observer, but as someone who wants to actively contribute to th
 <h3 align="center">Work Experience</h3>
 
 - **Freelance AI Trainer (French Alignment) - Zyka AI**
-  AI Data Contributor and French Language Specialist at Zyka AI. My role in the French Alignment project involves precisely syncing spoken French audio with text transcripts (word alignment). I prepare high-quality, accurately labeled datasets by applying strict guidelines to ensure data integrity. This meticulous data preparation is essential for training and refining modern AI models.
+  AI Data Contributor and French Language Specialist at Perit AI (working via the Zyka platform). My role in the French Alignment project involves precisely syncing spoken French audio with text transcripts (word alignment). I prepare high-quality, accurately labeled datasets by applying strict guidelines to ensure data integrity. This meticulous data preparation is essential for training and refining modern AI models.
 
 - **AI Data Annotator - Jwuma by Corpshore AI**
   AI Data Contributor and Evaluator working remotely on large language model fine-tuning and data quality projects hosted on the Jwuma (Corpshore AI) platform. Key responsibilities include evaluating AI outputs, performing RLHF (Reinforcement Learning from Human Feedback), and annotating datasets against precise accuracy and safety criteria.
