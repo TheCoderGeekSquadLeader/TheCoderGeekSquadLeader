@@ -3,7 +3,7 @@
 <div align="center">
 
 # The Coder Geek Squad Leader
-**AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor | Graphic Design Hobbyist | 3D & Motion Enthusiast | Trivia Buff** 
+**AI & Software Engineering Student | Freelance Dev & Tech Builder | AI Data Annotator | Open Source Contributor | Graphic Design Hobbyist | 3D & Motion Enthusiast | Trivia Buff ** 
 
 <a href="https://linkedin.com/in/soulemane-issifou"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:lepluscultive@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /></a>&nbsp;&nbsp;
